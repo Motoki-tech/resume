@@ -32,9 +32,16 @@
 ###　言語
 
 <p>
-    <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
-    <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat">
-    <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
-    <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
 </p>
+
+### フレームワーク・その他
+
+<p>
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=flat-square&logoColor=white" />
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
