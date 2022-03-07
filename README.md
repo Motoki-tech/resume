@@ -45,7 +45,7 @@
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=flat-square&logoColor=white" />
-<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=flat-square" />
-<img alt="Express" src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat-square&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=flat-square">
+<img alt="Postgresl" src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat-square&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
