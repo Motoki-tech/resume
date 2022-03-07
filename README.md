@@ -14,4 +14,4 @@
 ## 各種アカウント
 
 <p>
-<a href="https://github.com/Motoki-tech" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Motoki-tech-181717.svg?logo=github&style=flat"/></a>
+<a href="https://github.com/Motoki-tech" target="_blank"><img alt="Motoki-tech" src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat"/></a>
