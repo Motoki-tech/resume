@@ -50,7 +50,12 @@
 <img alt="Postgresl" src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat-square&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
-
+</p>
+    
+### 強み
+- 人前で話す事が得意
+- 技術に限らず、「面白そう！」と思ったら、すぐ実際に触ってみる
+- ユーザーが喜ぶプロダクトを開発したいというパッションがある
 ---
 
 ## 職務経歴詳細
