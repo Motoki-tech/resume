@@ -17,13 +17,14 @@
 
 ## 保有スキル
 
-- JavaScript / TypeScript + React.js でのフロントエンド/バックエンド開発・設計
+- TypeScript / JavaScript + React.js でのフロントエンド/バックエンド開発・設計
 - API を利用したサーバーサイド開発
 - アジャイル、スクラムの進行補助
 
-##　技術スタック
 
-###　言語
+## 技術スタック
+
+### 言語
 
 <p>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
