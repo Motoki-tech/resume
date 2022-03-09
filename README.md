@@ -12,7 +12,7 @@
 ## 各種アカウント
 
 <p>
-<a href="https://github.com/Motoki-tech" target="_blank"><img alt="Motoki-tech" src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat"/></a>
+<a href="https://www.linkedin.com/in/motoki-mizuno-8a0793204/" target="_blank"><img alt="Motoki-tech" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ## 保有スキル
