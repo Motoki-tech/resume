@@ -14,7 +14,7 @@
 約10年間ミュージシャンとして活動。その後は、Webアプリケーション開発をするエンジニアになる為独学でプログラミングへ打ち込み始め、2021年11月には3ヶ月間プログラミングブートキャンプ内でプロダクト開発を行う。主にJavaScriptを用いたフロントエンドからバックエンドの構築、APIサーバーを用いたフルスタックWebアプリケーションの実践的な開発経験があります。
 
 
-## 各種アカウント
+## LinkedInアカウント
 
 <p>
 <a href="https://www.linkedin.com/in/motoki-mizuno-8a0793204/" target="_blank"><img alt="Motoki-tech" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
