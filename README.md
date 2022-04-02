@@ -34,9 +34,9 @@
 ### 言語
 
 <p>
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-    <img alt="HTML5" src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=flat-square&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+    <img alt="HTML5" src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=flat-square&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=flat-square"/>
 </p>
 
